@@ -1,3 +1,22 @@
 .banner-backgound-panda {
     background: #fceae8;
 }
+
+.amount-color {
+    color: #FA804C;
+}
+
+.button-buy-now {
+    background-color: #3D4FF3;
+    padding: 10px 20px;
+    color: #fff;
+}
+
+.button-buy-now:hover {
+    background-image: linear-gradient(#280074, #15ccff);
+    color: #fceae8;
+}
+
+.casule-shoes-bg-color {
+    background: #F1F1F1;
+}
